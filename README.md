@@ -1,4 +1,4 @@
-### Olá eu sou o Marcos Júnior ✋
+### Olá me chamo Marcos Júnior ✋
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-j%C3%BAnior-passarella-naves-7868a3210/)
