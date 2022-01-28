@@ -1,5 +1,5 @@
 ## Olá, me chamo Marcos Júnior ✋
-#### Tenho 19 anos e trabalho como Desenvolvedor Front End, seja bem vindo ao meu GitHub
+#### Tenho 19 anos e trabalho como Desenvolvedor Front End na Vetto Tecnologia, seja bem vindo ao meu GitHub
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-j%C3%BAnior-passarella-naves-7868a3210/)
