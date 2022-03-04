@@ -5,8 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-j%C3%BAnior-passarella-naves-7868a3210/)
 
 ![MJWORKS GitHub stats](https://github-readme-stats.vercel.app/api?username=MJWORKS&show_icons=true&theme=dark)
-<br/>
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJWORKS&layout=compact&theme=dark)](https://github.com/MJWORKS/github-readme-stats&theme=onedark)
 
 ### Tools
