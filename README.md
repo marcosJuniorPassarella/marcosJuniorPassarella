@@ -10,6 +10,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/MJWORKS">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=MJWORKS&show_icons=true&theme=dark"/>
+    
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJWORKS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -23,6 +24,5 @@
 <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   
 </div>
