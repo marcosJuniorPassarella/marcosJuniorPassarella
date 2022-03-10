@@ -11,7 +11,7 @@
   <a href="https://github.com/MJWORKS">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=MJWORKS&show_icons=true&theme=dark"/>
     
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJWORKS&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="40%" style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJWORKS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Tools:
