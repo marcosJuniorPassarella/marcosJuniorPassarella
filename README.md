@@ -1,5 +1,5 @@
 ## Hey 👋🏻 I'm Marcos Júnior.
-#### I'm a Front-End Developer, I have 19 years old and i have experience in real projects using Typescript and I'm always focused on learning and creating projects using the latest technologies on the market and good programming practices.
+#### I'm a Front-End Developer, I have 19 years old and i have experience in real projects using Angular and I'm always focused on learning and creating projects using the latest technologies on the market and good programming practices.
 <br/>
 
 <div align="center"> 
