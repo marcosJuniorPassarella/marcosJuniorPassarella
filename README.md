@@ -6,12 +6,6 @@
   <a href="https://www.linkedin.com/in/marcos-j%C3%BAnior-passarella-naves-7868a3210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br/>
-
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/marcosJuniorPassarella">
-  <img height="220em" width="45%" src="https://github-readme-stats.vercel.app/api?username=marcosJuniorPassarella&show_icons=true&theme=dark"/> 
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosJuniorPassarella&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <br/>
 <div style="display: inline_block" align="center">
 
