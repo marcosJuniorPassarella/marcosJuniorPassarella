@@ -3,6 +3,7 @@
 <br/>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/marcos-j%C3%BAnior-passarella-naves-7868a3210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.udemy.com/user/marcos-junior-passarella-naves-2/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
 </div>
 <br/>
 
